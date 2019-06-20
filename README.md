@@ -244,3 +244,6 @@ After creating the project, the directory should look something like this:
 ```
 
 The scrapy.cfg file in the root directory contains the scrapy settings for this project.
+___
+
+<a href="https://www.buymeacoffee.com/TZnRwH0" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
