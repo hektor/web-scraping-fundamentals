@@ -247,4 +247,4 @@ The scrapy.cfg file in the root directory contains the scrapy settings for this 
 ___
 
 
-<a href="https://www.buymeacoffee.com/TZnRwH0" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" >/a>
+<a href="https://www.buymeacoffee.com/TZnRwH0" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
