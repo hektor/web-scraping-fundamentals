@@ -1,9 +1,20 @@
 # **Python Web Scraping fundamentals**
 
-Hektor Misplon  
+Hektor Misplon
+
+# Repo Structure
+
+``` 
+├───assets
+│   ├───docs
+│   │   └───examples (example tutorials)
+│   └───images
+└───examples (example code)
+```
 
 # Table of contents
 - [**Python Web Scraping fundamentals**](#Python-Web-Scraping-fundamentals)
+- [Repo Structure](#Repo-Structure)
 - [Table of contents](#Table-of-contents)
   - [Web Scraping](#Web-Scraping)
   - [Python Web Scraping Tools](#Python-Web-Scraping-Tools)
@@ -23,7 +34,6 @@ Hektor Misplon
   - [Scrapy basics](#Scrapy-basics)
     - [CLI (command line interface)](#CLI-command-line-interface)
     - [Creating a Scrapy project](#Creating-a-Scrapy-project)
-- [Repo Structure](#Repo-Structure)
 
 ## Web Scraping
 
@@ -234,13 +244,3 @@ After creating the project, the directory should look something like this:
 ```
 
 The scrapy.cfg file in the root directory contains the scrapy settings for this project.
-
-# Repo Structure
-
-``` 
-├───assets
-│   ├───docs
-│   │   └───examples (example tutorials)
-│   └───images
-└───examples (example code)
-```
